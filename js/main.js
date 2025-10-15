@@ -211,12 +211,19 @@ document.addEventListener('DOMContentLoaded', () => {
             description: "Director Médico en Auna Oncosalud, experto en endocrinología y liderazgo en oncología.",
             p: "Auna"
         },
+        // SE BAJA EL 15 DE OCTUBRE{
+        //     name: "Julián <br> Robles",
+        //     imgSrc: "./images/speakers/julian-robles.jpg", // Asegúrate de tener esta imagen
+        //     imgAlt: "Foto de Julián Robles",
+        //     description: "ICF Coach y Maestro en Filosofía, especializado en desarrollo de líderes y equipos.",
+        //     p: "Lumine"
+        // },
         {
-            name: "Julián <br> Robles",
-            imgSrc: "./images/speakers/julian-robles.jpg", // Asegúrate de tener esta imagen
-            imgAlt: "Foto de Julián Robles",
-            description: "ICF Coach y Maestro en Filosofía, especializado en desarrollo de líderes y equipos.",
-            p: "Lumine"
+            name: "Rosa <br> León",
+            imgSrc: "./images/speakers/rosa-leon.jpg", // Asegúrate de tener esta imagen
+            imgAlt: "Foto de Rosa León",
+            description: "Estratega en bienestar integral con más de 12 años de experiencia y fundadora de Pausas, startup líder en innovación para el bienestar.",
+            p: "..."
         },
         {
             name: "Miguel <br> Hernández",
@@ -512,7 +519,7 @@ document.addEventListener('DOMContentLoaded', () => {
             imgSrc: './images/agenda/liderazgo-5-0.jpg',
             imgAlt: 'Manos unidas en señal de trabajo en equipo',
             title: 'Liderazgo 5.0',
-            presenter: 'Julián Robles',
+            presenter: 'Rosa León',
             date: '23 Octubre 2025',
             time: '12:00 PM - 01:00 PM',
             dateTime: '2025-10-23T12:00',
@@ -571,8 +578,8 @@ document.addEventListener('DOMContentLoaded', () => {
             day: 6,
             imgSrc: './images/agenda/soft-power-skills-en-liderazgo.jpg',
             imgAlt: 'Mujer feliz',
-            title: 'De soft a power skills en el liderazgo',
-            presenter: 'Julián Robles',
+            title: 'De life a power skills en el liderazgo',
+            presenter: 'Rosa León',
             date: '24 Octubre 2025',
             time: '12:00 PM - 01:00 PM',
             dateTime: '2025-10-24T12:00',
