@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', () => {
             imgSrc: "./images/speakers/rosa-leon.jpg", // Asegúrate de tener esta imagen
             imgAlt: "Foto de Rosa León",
             description: "Estratega en bienestar integral con más de 12 años de experiencia y fundadora de Pausas, startup líder en innovación para el bienestar.",
-            p: "..."
+            p: "Pausas"
         },
         {
             name: "Miguel <br> Hernández",
